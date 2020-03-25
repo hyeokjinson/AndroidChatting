@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "432383296276",
+    "firebase_url": "https://androidchatting-de4b5.firebaseio.com",
+    "project_id": "androidchatting-de4b5",
+    "storage_bucket": "androidchatting-de4b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432383296276:android:8b265d44eff001d1c23801",
+        "android_client_info": {
+          "package_name": "com.example.androidchatting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432383296276-h77au96deg0r6c2jmejs946c0prfgnol.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.androidchatting",
+            "certificate_hash": "06f8f7eab91a4ba22df2c726297600c6f1f50cc1"
+          }
+        },
+        {
+          "client_id": "432383296276-csd67fjkbapkhfc27dvmdbu06pv90ov0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHehuz5OHgxGxy8NdlZpH2nvqiHrCw--Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432383296276-csd67fjkbapkhfc27dvmdbu06pv90ov0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
